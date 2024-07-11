@@ -1,0 +1,10 @@
+{
+    "books":[
+        {"id":101, "title":"The Biology", "author":" Jennifer Doudna", "price":400000, "photo":"https://cdn.gramedia.com/uploads/items/THE_BIOLOGY_BOOK.jpg"},
+        {"id":102, "title":"The Psychology", "author":"Charles Darwin", "price":450000, "photo":"https://m.media-amazon.com/images/I/81LDP+GDKVL._SY466_.jpg"},
+        {"id":103, "title":"THE PHILOSOPHY", "author":"Dorling Kindersley", "price":190000, "photo":"https://images.booksense.com/images/551/458/9781465458551.jpg"},
+        {"id":104, "title":"THE POLITICS", "author":"Greek Aristotle", "price":170000, "photo":"https://educationalbookshop.com/cdn/shop/products/polbook_1024x1024@2x.jpg?v=1664452905"},
+        {"id":105, "title":"The Physics", "author":"Greek Aristotle", "price":120000, "photo":"https://m.media-amazon.com/images/I/814VZlo2tXL._SY466_.jpg"},
+        {"id":106, "title":"The Art", "author":"Dorling Kindersley", "price":270000, "photo":"https://images.booksense.com/images/372/453/9781465453372.jpg"}
+    ]
+}
